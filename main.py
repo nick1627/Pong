@@ -1,5 +1,5 @@
 # Pong implemented in Python using Turtle for the GUI stuff, veeery beginner level
-# made following https://www.youtube.com/watch?v=XGf2GcyHPhc&t=78s
+# made following https://www.youtube.com/watch?v=LH8WgrUWG_I&list=PLlEgNdBJEO-kXk2PyBxhSmo84hsO3HAz2&index=1
 
 import turtle
 import os
